@@ -9,7 +9,7 @@ Technologies Used:
 
 Features:
 * The user first needed to register an account and needed to sign in to use the chatbot
-* The chatbot can provide information about specific medications, including usage, dosage, side  
+* The chatbot can provide information about specific medications, including usage, dosage and side effects
 * The chatbot can provide general health and wellness tips, such as exercise recommendations and healthy eating habits.
 * The chatbot can answer frequently asked questions related to pharmacy services, such as refill requests and insurance coverage.
 * The user can logout, update their profile, reset their password and delete their account.
