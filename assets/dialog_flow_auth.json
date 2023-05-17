@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "pharmacy-chatbot-cb8f7",
-  "private_key_id": "6e3a30814009a51d7128b749a180d4cb2a410470",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWRbOvQsTP2k6I\nyHOwuLHGoIFXnNxkK2zDIUNQW9/h0FDDt4ximzKkmB0TeUh2PkOwD7hWvzq0FyUk\ns8nSZShbaHl7r7xzXSv4oANOSd1LqE98+nIHJ3MjZw+vjN365KvnJcHYW2TO1M71\n+OddpOgbED56wap9Vo05UV+b7vvcX63urXEWSughPIBJlIs/ujdvvP72rEorCcax\nrf8NDoxAh2pcTB5rUhrHTl8ty6CATO8nKRupBLxdCPHOX395QrzQC4woVy6mZe64\nWiHyoL6cNPQMR/Gmhug6UNqi32kXFTVfvLFsMm4UN7fOcoNNL3IeMz2u0gbxydmr\nlGIxMRp9AgMBAAECggEAAsxAsyRoTP2BAoS5jABxY9JTNglokE9H2Yls51b3xqtR\nbqjOJrh3khIhaRBvm4mnGRyvb8SJ9/GIbOEDHOHww7bKxUxvZcM88H9oY6SPxO3i\n8dMUW5cOiBMPr59jg6PqQbeqvxA8cf3x4ODZ5o1hcX8GDdTLDN1tNScknDTj6YX5\nLDvMgeqBWVRcvf9iw6x7b47A0os6TnPei/KnO3T+/0LpuoQ9aTGtXZUyy8lcVzH9\nN/yo+Bqahi2i9e9Rmhd8wU0Jz28E7cBL27h3mk2EaxCsB+itY6Gu4koRmxxWtyU6\nh2k93c+/JVTNjpS7Su7cNc+bxhpIJqtGQUuc7iVicQKBgQD+9g18aBUfYOfqSGSz\njqZDv6cdm3QHUy0v88uux2XVyhzn94YKOSj6vKIdXJdRndzB0e5kwKpKz+5cN1gI\nmKeqeaSlVk2SWSN/NCNXlbA3RbJnXgXB2zUKYc8a5hFUxmHbk8hx5Wbovi5QaxfA\n5yTz0cofD/iyuqmFRAggZjsnDQKBgQDXJTUC5pi5eBi7466a3v+58H8RgX8ONpDU\nH2w+cITnJb8ZCcQU0GLYBIVnSmOcbFLixrglvVQMWmyV3iTYWmi10CTnue6UEakp\nb1NWb3N90K/Xq0eOm6h3eAtQ2QRHLQsZlizaxVvf9MCrGywhGyHb9PZxpaNUrcM9\nuQgdEbDlMQKBgQDHr+zWECri/aIGQ5bjbwlXrIZ10OgqSIHuubJAfJmMvRSwtZO8\n9BHdd9o8xuUZHlvlTce6D5AQshRNE2eWrAE9qrJCcHqm8bu0iCBaG7n9QFA/V0uJ\nDmfXbs2nkqPmUs4YDQID+pkEFtftUkMzaZXuhNQaSgcN7NaSsrrurUMNDQKBgDjR\nnrpxZAw3Z3DXpJlKI4dbuHNLG98JEh6zXcbvuGnDUkCuj5ZfonsiVoj84GnDQfCa\nQq/U3ImWp+68iEaLOfQqUFTSieuY7m/+8qd1L68emhH/Lhq/iTJkBbkIV1Tk1HWh\nb58nWChBX1DREEp9++c3Po6tDAGlElcOstHahjlBAoGAGhR0eQjsQTl9pAKQZrLW\nYhi4HtwkBhuwHJM9btOCNcWDPQmo5QIikxxB2lEfpXqOYm8M8G59bxbCaAGKxj3S\nFj1yhupGTjpvTI9zNqmW+SggNj79h4iz18IbVlnh80MZwZlKshDnGUdMV7fV4xlr\nBv70+gjFIHwBc239qd4m/e8=\n-----END PRIVATE KEY-----\n",
-  "client_email": "pharmacy-chatbot-746@pharmacy-chatbot-cb8f7.iam.gserviceaccount.com",
-  "client_id": "114776002052655421869",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pharmacy-chatbot-746%40pharmacy-chatbot-cb8f7.iam.gserviceaccount.com"
+  "type": "t",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
